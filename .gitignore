@@ -39,3 +39,5 @@ package-lock.json
 /.vercel
 /.yarn
 .yarnrc.yml
+
+.zed_server
